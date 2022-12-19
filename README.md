@@ -2,15 +2,7 @@
 
 **`Software Craftsman (Developer/Physicist)`**
 
-<br/>
-
 I'm a Physics student and Software Developer building my Digital Empire one step at a time. All coding projects I undertake are carefully outlined, designed and implemented to solve real world problems, efficiently and elegantly. As for my studies, I'm currently on my forth and final year of Bachelor's Degree, specializing in Computers, and completing my Thesis on Image Processing. You can get to know me better by visiting my [personal website](https://alextsagkas.com).
-
-<br/>
-
----
-
-<br/>
 
 ## 🛠️ Languages and Tools
 
@@ -49,23 +41,11 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 <br />
 <br />
 
-<br/>
-
----
-
-<br/>
-
 ## 📈 GitHub Stats
 
 <br />
 
 ![alextsagkas Stats](https://github-readme-stats.vercel.app/api?username=alextsagkas&show_icons=true&theme=dracula)
-
-<br/>
-
----
-
-<br/>
 
 <!-- <details>
     <summary>
