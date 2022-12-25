@@ -6,37 +6,37 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 
 ## 🛠️ Languages and Tools
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <!-- C++ -->
-<img align="left" alt="C++" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="C++" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <!-- Python -->
-<img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <!-- C -->
-<img align="left" alt="C" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="C" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <!-- HTML -->
-<img align="left" alt="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <!-- CSS -->
-<img align="left" alt="CSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="CSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <!-- JS -->
-<img align="left" alt="Javascript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Javascript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <!-- Typescript -->
-<img align="left" alt="Typescript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="Typescript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <!-- React -->
-<img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!-- NextJS -->
-<img align="left" alt="NectJS" width="30px" style="margin-right:10px; background-color:white; border-radius:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img class="devicon-nextjs-original" style="margin-right:4px; zoom:250%">
 <!-- TailwindCSS -->
-<img align="left" alt="TailwindCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="TailwindCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <!-- Git -->
-<img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- GitHub -->
-<img align="left" alt="GitHub" width="30px" style="margin-right:10px; background-color:white; border-radius:100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img class="devicon-github-original" style="margin-right:4px; zoom:250%">
 <!-- MacOS -->
-<img align="left" alt="MacOS" width="30px" style="margin-right:10px; background-color:white; border-radius:10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+<img class="devicon-apple-original" style="margin-right:4px; zoom:250%">
 <!-- LaTeX -->
-<img align="left" alt="LaTeX" width="30px" style="margin-right:10px; background-color:white; border-radius:10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img class="devicon-latex-original" style="margin-right:4px; zoom:250%">
 <!-- MD -->
-<img align="left" alt="MD" width="30px" style="margin-right:10px; background-color:white; border-radius:10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.
-svg" />   
+<img class="devicon-markdown-original" style="margin-right:4px; zoom:250%">          
 <br />
 <br />
 
