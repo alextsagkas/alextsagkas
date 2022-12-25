@@ -36,7 +36,6 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 <img algin="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <!-- MD -->
 <img algin="left" alt="MD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-          
 <br />
 <br />
 
