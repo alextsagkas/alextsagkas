@@ -6,7 +6,6 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 
 ## 🛠️ Languages and Tools
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <!-- C++ -->
 <img alt="C++" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <!-- Python -->
@@ -24,19 +23,20 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 <!-- React -->
 <img alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!-- NextJS -->
-<img class="devicon-nextjs-original" style="margin-right:4px; zoom:250%">
+<img alt="NectJS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <!-- TailwindCSS -->
 <img alt="TailwindCSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <!-- Git -->
 <img alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- GitHub -->
-<img class="devicon-github-original" style="margin-right:4px; zoom:250%">
+<img alt="GitHub" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <!-- MacOS -->
-<img class="devicon-apple-original" style="margin-right:4px; zoom:250%">
+<img alt="MacOS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <!-- LaTeX -->
-<img class="devicon-latex-original" style="margin-right:4px; zoom:250%">
+<img alt="LaTeX" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <!-- MD -->
-<img class="devicon-markdown-original" style="margin-right:4px; zoom:250%">          
+<img alt="MD" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+          
 <br />
 <br />
 
