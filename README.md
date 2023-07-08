@@ -44,6 +44,7 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 <br />
 
 ![alextsagkas Stats](https://github-readme-stats.vercel.app/api?username=alextsagkas&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextsagkas&langs_count=8)
 
 <!-- <details>
     <summary>
