@@ -1,8 +1,8 @@
-# 🪬 Alex Tsagkas
+# 🪢 Alex Tsagkas
 
-**`Software Craftsman (Developer/Physicist)`**
+**`Software Craftsman`**
 
-I'm a Physics student and Software Developer building my Digital Empire one step at a time. All coding projects I undertake are carefully outlined, designed and implemented to solve real world problems, efficiently and elegantly. As for my studies, I'm currently on my forth and final year of Bachelor's Degree, specializing in Computers, and completing my Thesis on Image Processing. You can get to know me better by visiting my [personal website](https://alextsagkas.com).
+I'm a Software Engineer building my Digital Empire one step at a time. All coding projects I undertake are carefully outlined, designed and implemented to solve real world problems, efficiently and elegantly. As for my studies, I'm currently on my first year of M.Sc. in Control and Computing, developing, designing and optimizing computer systems. You can get to know me better by visiting my [personal website](https://alextsagkas.com).
 
 ## 🛠️ Languages and Tools
 
@@ -24,8 +24,6 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!-- NextJS -->
 <img align="left" alt="NectJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<!-- TailwindCSS -->
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <!-- Git -->
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- GitHub -->
@@ -45,10 +43,3 @@ I'm a Physics student and Software Developer building my Digital Empire one step
 
 ![alextsagkas Stats](https://github-readme-stats.vercel.app/api?username=alextsagkas&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextsagkas&langs_count=8&layout=compact&hide=TeX)
-
-<!-- <details>
-    <summary>
-        <h3>💻 Alex Tsagkas Coding Journey</h3>
-    </summary>
-
-</details> -->
